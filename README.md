@@ -8,13 +8,10 @@ Jardine and Heinz (2016) version is coming soon!
 
 To run the autorunned versions:
 
-Provide a list of words separated by commas!
-
-SL:    SLmain()
-
-TSL:   TSLmain()
-
-SP:    SPmain()
+:Provide a list of words separated by commas!
+:SL:    SLmain()
+:TSL:   TSLmain()
+:SP:    SPmain()
 
 
 
