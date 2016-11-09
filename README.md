@@ -17,13 +17,23 @@ TSL:   TSLmain()
 SP:    SPmain()
 
 
-To run the actual functions"
+
+To run the actual functions:
+
 text = ["List", "of", "words", "to", "analyze"]
+
 SL:    bigramize_text(text)
+
 TSL:   findTSL(text)
+
 SP:    findSP(text)
 
+
+
 Example languages:
+
 1) ab, abab, ababab
+
 2) tatalat, atattatalat, attatatalat, talarat, latarat, talatarat, tlaralat, tataltralat, lataralat, tatrat, tarta
+
 3) abbba, bbbbb
