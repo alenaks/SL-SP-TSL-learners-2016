@@ -7,10 +7,15 @@ The TSL algorithm that is used is taken from Jardine (2016).
 Jardine and Heinz (2016) version is coming soon!
 
 To run the autorunned versions:
+
 Provide a list of words separated by commas!
+
 SL:    SLmain()
+
 TSL:   TSLmain()
+
 SP:    SPmain()
+
 
 To run the actual functions"
 text = ["List", "of", "words", "to", "analyze"]
